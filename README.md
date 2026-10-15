@@ -9,7 +9,7 @@ Pregunta: Dada la fotografía de una mascota, ¿es un gato o un perro?
 
 Tipo de problema: Aprendizaje supervisado - clasificación binaria de imágenes.
 
-Utilidad: Automatizar el etiquetado de fotos de mascotas. Un refugio o un portal de adopción recibe miles de fotos y necesita clasificarlas por especie sin que una persona las revise una por una.
+Utilidad: Automatizar el etiquetado de fotos de mascotas. Puede servir por ejemplo en sistemas de archivos locales o en la nube, para que al buscar "perro" o "gato" salgan las fotos que tenemos guardadas de cada animal (por ejemplo en la galería del celular o en servicios cloud que no tengan esta funcionalidad).
 
 ## BD seleccionada: https://www.tensorflow.org/datasets/catalog/cats_vs_dogs
 
